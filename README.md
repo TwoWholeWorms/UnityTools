@@ -25,3 +25,8 @@ heightmaps in World Machine and then use this to slice it up so I can load them 
 ```
 mono Raw16Splitter.exe 10x10 wm_heightmap_40960x40960.r16 ./tiles/
 ```
+
+# License
+
+This code is licensed under the MIT License. See [`LICENSE`](https://github.com/TwoWholeWorms/UnityTools/blob/master/LICENSE)
+for the full terms, what few of them are.
