@@ -11,7 +11,8 @@ so the easiest way to compile it is just to grab [Xamarin Studio](http://www.mon
 ```
 mono Raw16Splitter.exe <gridSize> <inputFile> <outputDir>
 
-    gridSize  — the size of the grid to cut the RAW file up into. Must be square, and >= 2x2
+    gridSize  — the size of the grid to cut the RAW file up into. Must be square,
+                and >= 2x2
     inputFile — the 16-bit RAW file to slice up
     outputDir — the directory to save the sliced-up tiles to
 ```
