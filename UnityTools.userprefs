@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Raw16Splitter/Raw16Splitter.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnityToolsShared/ExtensionMethods.cs">
+    <Files>
+      <File FileName="Raw16Splitter/Raw16Splitter.cs" Line="50" Column="1" />
+      <File FileName="UnityToolsShared/ExtensionMethods.cs" Line="15" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
